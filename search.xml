@@ -801,8 +801,8 @@ function generateUUID() {
         <category>javascript</category>
       </categories>
       <tags>
-        <tag>PDF.js</tag>
         <tag>JavaScript</tag>
+        <tag>PDF.js</tag>
         <tag>PDF解析器</tag>
       </tags>
   </entry>
